@@ -1,4 +1,4 @@
-#Admin Finder
+# Admin Finder
 
 Indonesia :
 Kode Ini Diciptakan Untuk Mencari Login Admin Atau Halaman Admin Untuk Login Website.
@@ -6,7 +6,7 @@ Kode Ini Diciptakan Untuk Mencari Login Admin Atau Halaman Admin Untuk Login Web
 Inggris : 
 This Code Was Created To Look For Admin Login Or Admin Page To Login Website.
 
-#Penginstalan
+# Penginstalan
 
 $ pkg install git 
 $ pkg install python2
@@ -15,7 +15,7 @@ $ git clone https://github.com/Fukur0-3XP/AdminFinder
 $ cd AdminFinder
 $ python2 Finder.py
 
-#Info
+# Info
 
 Creator : ./FUKUR0-3XP
 Team : Black Coders Anonymous Satanic Exploiter Team
