@@ -67,7 +67,7 @@ def main():
 	c = (len(found))
 	print(''+C+'Hasil : '+W+str(c))
 	print ('')
-	print(''.join(found))
+	print('\n'.join(found))
 
 if __name__ == '__main__':
 	if len(sys.argv) != 2:
