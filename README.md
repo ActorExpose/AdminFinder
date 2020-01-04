@@ -1,7 +1,7 @@
 # Admin Finder
+![IMG_20200104_222645](https://user-images.githubusercontent.com/59508497/71767699-64dff500-2f41-11ea-8b95-b33efa20bbce.JPG)
 
 
-[IMG_20200104_222645](https://user-images.githubusercontent.com/59508497/71767699-64dff500-2f41-11ea-8b95-b33efa20bbce.JPG)
 
 
 ```
