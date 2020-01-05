@@ -67,7 +67,7 @@ def main():
 	c = (len(found))
 	print(''+C+'Hasil : '+W+str(c))
 	print ('')
-	print('\n'.join(found))
+	print(''.join(found))
 
 if __name__ == '__main__':
 	if len(sys.argv) != 2:
@@ -81,6 +81,7 @@ if __name__ == '__main__':
   / ____ \ (_| | | | | | | | | | | | |    | | | | | (_| |  __/ |   
  /_/    \_\__,_|_| |_| |_|_|_| |_| |_|    |_|_| |_|\__,_|\___|_|   
                             Creator : ./Fukur0
+                            Youtube : Jejak Cyber
 '''
 
 		print('Usage : ' + sys.argv[0] + ' www.site.com')
